@@ -1,0 +1,48 @@
+.help {
+    width: 1440px;
+}
+
+.help_text {
+    text-align: center;
+    margin-top: 113px;
+}
+
+.help__item {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 42px;
+    color: $white;
+    width: 570px;
+    height: 84px;
+    margin-left: 435px;
+}
+
+.help__item-text {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 22px;
+}
+
+.help__button {
+    border: medium none;
+    background-image: transparent;
+    background-image: url(../img/cyrcle.svg);
+    background-repeat: no-repeat;
+    background-position-x: 5px;
+    background-position-y: 4px;
+    background-color: $white;
+    border-radius: 20px 20px 20px 20px;
+    width: 143px;
+    height: 42px;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    font-weight: 400;
+    padding-left: 42px;
+    padding-right: 10px;
+    margin-bottom: 108px;
+}
+
+.help-clients {
+    text-align: center;
+}

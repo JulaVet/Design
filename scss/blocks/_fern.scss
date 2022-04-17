@@ -1,0 +1,27 @@
+.fern {
+    background-image: url(../img/fern-bkg.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    padding: 0;
+}
+
+
+.fern-box {
+    margin-top: 260px;
+}
+
+.fern-item {
+    margin-right: 154;
+    color: $white;
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.fern-text {
+    width: 298px;
+    height: 60px;
+    font-family: Poppins;
+    font-weight: 400;
+    margin-right: 62px;
+}

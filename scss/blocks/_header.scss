@@ -1,0 +1,50 @@
+
+.header-box {
+    display: flex;
+    justify-content: space-around;
+    height: 90px;
+}
+
+.header-img {
+    margin: 30px 340px 29px 152px;
+    width: 128px;
+    height: 31px;
+}
+
+.header__bussines-areas {
+    margin: 35px 0 35px 0;
+    font-size: 13px;
+    letter-spacing: 0em;
+    font-weight: 400;
+}
+
+.header__featured-images {
+    margin: 34px 0 36px 0;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.header__gear-cage {
+    margin: 34px 0 36px 0;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.header__contact {
+    margin: 34px 0 36px 0;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.header__button {
+    border: medium none;
+    background-image: transparent;
+    background-color: $white;
+    border-radius: 20px 20px 20px 20px;
+    width: 155px;
+    height: 42px;
+    margin: 24px 140px 24px 0px;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    font-weight: 400;
+}

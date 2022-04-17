@@ -1,0 +1,196 @@
+
+.areas {
+    margin-top: 112px;
+    text-align: center;
+}
+
+.areas__item {
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    color: $white;
+}
+
+.areas-box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 42px;
+}
+
+.areas__products {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.areas__products--product {
+    background-image: url(../img/product-photography.jpg);
+    width: 576px;
+    min-height: 600px;
+    margin-right: 16px;
+    margin-bottom: 16px;
+}
+
+.areas__products--architecture {
+    background-image: url(../img/architecture-photography.jpg);
+    width: 576px;
+    min-height: 600px;
+    margin-bottom: 16px;
+}
+
+.areas__products--drone {
+    background-image: url(../img/drone-photography.jpg);
+    width: 576px;
+    min-height: 600px;
+    margin-right: 16px;
+    margin-bottom: 16px;
+}
+
+.areas__products--wildlife {
+    background-image: url(../img/wildlife-photography.jpg);
+    width: 576px;
+    min-height: 600px;
+    margin-bottom: 16px;
+}
+
+.areas__products-item--product {
+    margin-top: 410px;
+    margin-left: 30px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+}
+
+.areas__products-text--product{
+    margin-left: 30px;
+    width: 501px;
+    line-height: 20px;
+    letter-spacing: 0em;
+}
+
+.areas__products-button--product {
+    border: medium none;
+    background-image: transparent;
+    background-image: url(../img/cyrcle.svg);
+    background-repeat: no-repeat;
+    background-position-x: 5px;
+    background-position-y: 4px;
+    background-color: $white;
+    border-radius: 20px 20px 20px 20px;
+    width: 143px;
+    height: 42px;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    font-weight: 400;
+    margin-left: 30px;
+    padding-left: 42px;
+    padding-right: 10px;
+}
+
+.areas__products-item--architecture {
+    margin-top: 410px;
+    margin-left: 30px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+}
+
+.areas__products-text--architecture {
+    margin-left: 30px;
+    width: 514px;
+    line-height: 20px;
+    letter-spacing: 0em;
+}
+
+.areas__products-button--architecture {
+    border: medium none;
+    background-image: transparent;
+    background-image: url(../img/cyrcle.svg);
+    background-repeat: no-repeat;
+    background-position-x: 5px;
+    background-position-y: 4px;
+    background-color: $white;
+    border-radius: 20px 20px 20px 20px;
+    width: 143px;
+    height: 42px;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    font-weight: 400;
+    margin-left: 30px;
+    padding-left: 42px;
+    padding-right: 10px;
+}
+
+.areas__products-item--drone {
+    margin-top: 381px;
+    margin-left: 30px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+}
+
+.areas__products-text--drone {
+    margin-left: 30px;
+    width: 516px;
+    line-height: 20px;
+    letter-spacing: 0em;
+}
+
+.areas__products-button--drone {
+    border: medium none;
+    background-image: transparent;
+    background-image: url(../img/cyrcle.svg);
+    background-repeat: no-repeat;
+    background-position-x: 5px;
+    background-position-y: 4px;
+    background-color: $white;
+    border-radius: 20px 20px 20px 20px;
+    width: 143px;
+    height: 42px;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    font-weight: 400;
+    margin-left: 30px;
+    padding-left: 42px;
+    padding-right: 10px;
+}
+
+.areas__products-item--wildlife {
+    margin-top: 381px;
+    margin-left: 30px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 2px;
+}
+
+.areas__products-text--wildlife {
+    margin-left: 30px;
+    width: 480px;
+    height: 80px;
+    line-height: 20px;
+    letter-spacing: 0em;
+}
+
+.areas__products-button--wildlife {
+    border: medium none;
+    background-image: transparent;
+    background-image: url(../img/cyrcle.svg);
+    background-repeat: no-repeat;
+    background-position-x: 5px;
+    background-position-y: 4px;
+    background-color: $white;
+    border-radius: 20px 20px 20px 20px;
+    width: 143px;
+    height: 42px;
+    font-size: 16px;
+    letter-spacing: 0.4px;
+    font-weight: 400;
+    margin-left: 30px;
+    padding-left: 42px;
+    padding-right: 10px;
+}
+
+.areas__what-we-do {
+    padding-bottom: 100px;
+}

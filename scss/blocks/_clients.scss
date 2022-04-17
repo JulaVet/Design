@@ -1,0 +1,27 @@
+.clients {
+    width: 1440px;
+}
+
+.clients_text {
+    text-align: center;
+    margin-top: 113px;
+}
+
+.clients__item {
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 42px;
+}
+
+.clients__item-text {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.clients-img {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 82px;
+    margin-bottom: 140px;
+}

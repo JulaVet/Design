@@ -1,0 +1,30 @@
+body {
+    background-color: $black;
+    color: $gray;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 20px;
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.visually-hidden {
+	position: absolute !important;
+	clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+	clip: rect(1px, 1px, 1px, 1px);
+	padding:0 !important;
+	border:0 !important;
+	height: 1px !important; 
+	width: 1px !important; 
+	overflow: hidden;
+}
+
+.hr {
+    display: inline;
+    justify-content: center;
+    height: 2px;
+}

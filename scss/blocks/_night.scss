@@ -1,0 +1,25 @@
+.night {
+    background-image: url(../img/background-night.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    padding: 0;
+}
+
+.night-box {
+    margin-top: 260px;
+}
+
+.night-item {
+    color: $white;
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.night-text {
+    width: 298px;
+    height: 60px;
+    font-family: Poppins;
+    font-weight: 400;
+    margin-right: 62px;
+}
